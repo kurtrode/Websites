@@ -1,0 +1,57 @@
+
+body {
+  text-align: center;
+  font-family: cursive;
+}
+
+.bigger{
+  font-size: 40;
+  margin: 1em;
+  margin-bottom: 0em;
+  color: white;
+}
+
+.bigger1{
+  font-size: 40;
+  margin: 1em;
+  margin-bottom: 0em;
+  color: black;
+}
+
+.nomargins{
+  margin: 0em;
+}
+
+.left{
+  text-align: left;
+  margin-right: 3em;
+}
+
+.right{
+  text-align: right;
+  margin-left: 3em;
+}
+
+.alanabackground{
+  background-image: url("alanabackground.jpg");
+}
+
+.emilybackground{
+  background-image: url("emilybackground.jpg");
+  background-attachment: fixed;
+  background-position: center;
+}
+
+hr.black{
+  border: 1px solid black;
+}
+
+.link{
+  color = "pink";
+}
+
+.popup{
+  position: absolute;
+  width: 500px;
+  height: 400px;
+}
